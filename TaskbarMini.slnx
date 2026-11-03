@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/TaskbarMini.Core/TaskbarMini.Core.csproj" />
+  <Project Path="src/TaskbarMini.App/TaskbarMini.App.csproj" />
+  <Project Path="tests/TaskbarMini.Tests/TaskbarMini.Tests.csproj" />
+</Solution>

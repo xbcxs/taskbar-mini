@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <BaseIntermediateOutputPath>$(MSBuildThisFileDirectory)../.ai/build/taskbar-mini/$(MSBuildProjectName)/obj/</BaseIntermediateOutputPath>
+    <BaseOutputPath>$(MSBuildThisFileDirectory)../.ai/build/taskbar-mini/$(MSBuildProjectName)/bin/</BaseOutputPath>
+  </PropertyGroup>
+</Project>
